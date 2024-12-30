@@ -42,7 +42,7 @@ The Clinical Decision Support System (CDSS) is designed as a modular pipeline le
 
 **Outputs**:
 
-- A validated and refined list of medical entities with context extracted from the sample text.
+- Refer to Pydantic Output class inside `src` folder
 
 **Key Role**:
 
@@ -63,6 +63,7 @@ The Clinical Decision Support System (CDSS) is designed as a modular pipeline le
 - **Diagnosis**: A list of potential diseases or conditions identified.
 - **Reasoning**: Logical explanations supporting each diagnosis.
 - **Recommendations**: Preliminary management or follow-up actions.
+- Refer to Pydantic Output class inside `src` folder
 
 **Key Role**:
 
@@ -85,7 +86,7 @@ The Clinical Decision Support System (CDSS) is designed as a modular pipeline le
 
 **Outputs**:
 
-- A curated list of best practices for each diagnosis, including title, URL, and a brief summary.
+- Refer to Pydantic Output class inside `src` folder
 
 **Key Role**:
 
