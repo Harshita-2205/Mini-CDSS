@@ -133,6 +133,17 @@ The Clinical Decision Support System (CDSS) is designed as a modular pipeline le
 
 The final output is a comprehensive clinical report exported as a Markdown (`.md`) file, ensuring easy readability and portability.
 
+## Notes
+
+Before using this project, please ensure you have added the necessary API keys. 
+Create a `.env` file at the root level of the project and include the following content:
+
+```env
+GOOGLE_API_KEY="Api-key-here"
+TAVILY_API_KEY="Api-key-here"
+```
+
+
 ## How to Use the Project
 
 Follow these steps to set up and run the project:
