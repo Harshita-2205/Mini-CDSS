@@ -18,11 +18,11 @@ crew/
 │   │   ├── agents_and_tasks.py
 │   ├── hugging_face_ner.py
 │   ├── output_pydantic.py
-│   ├── .env
-│   ├── project_flow.html
-│   ├── sample_report.md
-│   ├── flow.py
-│   └── requirements.txt
+├── .env
+├── project_flow.html
+├── sample_report.md
+├── flow.py
+└── requirements.txt
 ```
 
 # Project Architecture: Clinical Decision Support System (CDSS)
